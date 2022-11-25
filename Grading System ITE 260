@@ -1,0 +1,50 @@
+ITE - 260 GROUP 1
+#PROJECT: GRADING SYSTEM
+
+#INTRODUCTION
+print("Welcome to PHINMA-COC Grading System.")
+print("Enter Your Grade")
+
+#LOOP IF ERROR INPUT#
+while True:
+    try:
+        first_grad = float(input("1st Quarter: "))
+        second_grad= float(input("2nd Quarter: "))
+        third_grad= float(input("3rd Quarter: "))
+        fourth_grad = float(input("4th Quarter: "))
+    except ValueError:
+        print("Invalid Input!")
+        continue
+    else:
+        break
+
+total = first_grad+second_grad+third_grad+fourth_grad
+average = total/4
+
+if average>=94.8 and average<=100:
+    print("Your Average Grade is",average,"or 1.0")
+elif average>=89.2 and average<=94.7:
+    print("Your Average Grade is",average,"or 1.25")
+elif average>=83.6 and average<=89.1:
+    print("Your Average Grade is",average,"or 1.50")
+elif average>=78.0 and average<=83.5:
+    print("Your Average Grade is",average,"or 1.75")
+elif average>=72.4 and average<=77.9:
+    print("Your Average Grade is",average,"or 2.00")
+elif average>=66.8 and average<=72.3:
+    print("Your Average Grade is",average,"or 2.25")
+elif average>=61.2 and average<=66.7:
+    print("Your Average Grade is",average,"or 2.50")
+elif average>=55.6 and average<=61.1:
+    print("Your Average Grade is",average,"or 2.75")
+elif average>=50 and average<=55.5:
+    print("Your Average Grade is",average,"or 3.00")
+elif average>=0 and average<=49.9:
+    print("Your Average Grade is",average,"or 5.00")
+if average >= 50.0 and average <=100:
+    print("You Passed! Thank you for using PHINMA-COC Grading System.")
+if average >=0 and average <=49.9:
+    print("You Failed! Thank you for using PHINMA-COC Grading System.")
+#IF GRADE EXCEEDS MORE THAN 100
+else:
+    print("Invalid Input!")
