@@ -1,0 +1,47 @@
+choices = ["rock", "paper", "scissors"]
+
+
+player1 = input("Player 1 - rock, paper, or scissors: ")
+player2 = input("Player 2 - rock, paper, or scissors: ")
+
+print ("----------------------------------------")
+if player1 == player2:
+    print("Player 2: ", player1)
+    print("Player 2: ", player2)
+
+    print("Tie!")
+elif player1 == "rock":
+    if player2 == "paper":
+        print("Player 1: Rock")
+        print("Player 2: Paper")
+        print("----------------------------------------")
+        print("Player 2 Wins!")
+    if player2 == "scissors":
+        print("Player 1: Rock")
+        print("Player 2: Scissors")
+        print("----------------------------------------")
+        print("Player 1 Wins!")
+elif player1 == "paper":
+    if player2 == "scissors":
+        print("Player 1: Paper")
+        print("Player 2: Scissors")
+        print("----------------------------------------")
+        print("Player 2 Wins!")
+    if player2 == "rock":
+        print("Player 1: Paper")
+        print("Player 2: Rock")
+        print("----------------------------------------")
+        print("Player 1 Wins!")
+elif player1 == "scissors":
+    if player2 == "rock":
+        print("Player 1: Scissors")
+        print("Player 2: Rock")
+        print("----------------------------------------")
+        print("Player 2 Wins!")
+    if player2 == "paper":
+        print("Player 1: Scissors")
+        print("Player 2: Paper")
+        print("----------------------------------------")
+        print("Player 1 Wins!")
+    else:
+        print("Invalid Input")
