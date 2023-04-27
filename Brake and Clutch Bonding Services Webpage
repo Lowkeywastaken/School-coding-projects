@@ -1,0 +1,526 @@
+// Brake and Clutch Bonding Services Webpage //
+
+// Call Us //
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;style&gt;
+    body{
+margin:0;
+background-image: url(&#39;bg.jpg&#39;);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+color: white;
+}
+nav {
+  color: white;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  background-color: rgb(8, 123, 216);
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+section {
+  display: flex;
+  }
+section {
+  display: flex;
+  }
+.center {
+text-align: center;
+color: red;
+
+background-image: url(&#39;bg.jpg&#39;);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+font-size: 50px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1 class=&quot;center&quot;&gt;Call Us&lt;/h1&gt;
+&lt;p class=&quot;center&quot;&gt;Dexter Pacana&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;0905-8046948&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;Globe/TM&lt;/p&gt;
+&lt;footer&gt;
+        &lt;nav&gt;
+          &lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+          &lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+          &lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+          &lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+  &lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+// Services //
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;style&gt;
+body{
+margin:0;
+background-image: url(&#39;bg.jpg&#39;);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+color: white;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: grey;
+  color: black;
+}
+.topnav a.active {
+  background-color: grey;
+  color: white;
+}
+header {
+  font-family: Clarendon Blk BT;
+  font-size: 90px;
+  background-size: cover;
+  background-size: 100% 100%;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 55px;
+  text-shadow: 6px 5px 4px black;
+}
+nav {
+
+  color: white;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  background-color: rgb(8, 123, 216);
+  text-decoration: none;
+  color: rgb(231, 223, 223);
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+section {
+  display: flex;
+  }
+section {
+  display: flex;
+  }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;br&gt;
+  &lt;nav&gt;
+    &lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+    &lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+    &lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+    &lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+&lt;header&gt;
+BRAKE AND CLUTCH RELINING SERVICES
+&lt;/header&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;center&gt;AVAILABLE SERVICES&lt;/h2&gt;
+
+&lt;h2&gt;&lt;center&gt;
+    &lt;font face=&quot;Lato&quot; color=&quot;white&quot; size=&quot;15&quot;&gt;
+        &lt;mark&gt; Bonding brake drum&lt;/mark&gt;
+  &lt;/font&gt;
+  &lt;/h2&gt;
+    &lt;center&gt;
+    &lt;img src=&quot;23.JPG&quot; width=&quot;530&quot;&gt;
+  &lt;/center&gt;
+ 
+  &lt;center&gt;
+  &lt;p&gt;We do rebonding all kinds of brake drum like in any light and moderate
+vehicle&lt;/p&gt;
+ 
+    &lt;h2&gt;&lt;center&gt;
+        &lt;font face=&quot;Lato&quot; color=&quot;#000&quot; size=&quot;15&quot;&gt;
+                    &lt;mark&gt; Bonding brake pad&lt;/mark&gt;
+        &lt;/font&gt;
+        &lt;/h2&gt;
+        &lt;center&gt;
+        &lt;img src=&quot;26.JPG&quot; width=&quot;530&quot;&gt;
+        &lt;/center&gt;
+        &lt;p&gt;We do rebonding of all kinds of brake pads like in any light and
+moderate vehicle&lt;/p&gt;
+ 
+        &lt;center&gt;
+   
+   
+&lt;h2&gt;&lt;center&gt;
+    &lt;font face=&quot;Lato&quot; color=&quot;#000&quot; size=&quot;15&quot;&gt;
+        &lt;mark&gt;CLUTCH RELINING&lt;/mark&gt;
+  &lt;/font&gt;    
+  &lt;/h2&gt;
+  &lt;center&gt;
+  &lt;img src=&quot;5.jpg&quot; width=&quot;530&quot;&gt;
+  &lt;img src=&quot;6.jpg&quot; width=&quot;530&quot;&gt;
+    &lt;img src=&quot;34.jpg&quot; width=&quot;530&quot;&gt;
+  &lt;p&gt;We do relining of all kinds of clutch like in any light and moderate
+vehicle&lt;/p&gt;
+   
+ 
+   
+   &lt;footer&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+  &lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+  &lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+  &lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;p&gt;© Brake and Clutch Relining Services&lt;/p&gt;
+  &lt;img src=&quot;space1.jpg&quot; alt=&quot;Brake and Clutch Relining Services&quot; width=&quot;100&quot;
+height=&quot;100&quot;&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+// Index //
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;style&gt;
+body{
+margin:0;
+background-image: url(&#39;bg.jpg&#39;);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+color: white
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: grey;
+  color: black;
+}
+.topnav a.active {
+  background-color: grey;
+  color: white;
+}
+header {
+  font-family: Clarendon Blk BT black;
+  font-size: 90px;
+  background-size: cover;
+  background-size: 100% 100%;
+  color: white;
+
+  text-align: center;
+  padding: 55px;
+  text-shadow: 6px 5px 4px black;
+}
+nav {
+  color: white;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  background-color: rgb(8, 123, 216);
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+section {
+  display: flex;
+  }
+section {
+  display: flex;
+  }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;br&gt;
+  &lt;nav&gt;
+&lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+&lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+&lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+&lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+&lt;header&gt;
+  BRAKE AND CLUTCH RELINING SERVICES
+
+  &lt;/header&gt;
+  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br&gt;
+  &lt;a href= &quot;https://www.google.com/maps/@8.4816209,124.661022,15z&quot;&gt;© Lapasan,
+Cagayan de Oro City&lt;/a&gt;
+  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br&gt;
+&lt;footer&gt;
+  &lt;img src=&quot;space1.jpg&quot; alt=&quot;Lapasan, Cagayan de Oro City &quot; width=&quot;100&quot;
+height=&quot;100&quot;&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+// About Us //
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+  &lt;style&gt;
+  body{
+  margin:0;
+  background-image: url(&#39;bg.jpg&#39;);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  color: white;
+  }
+  .topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: grey;
+  color: black;
+}
+.topnav a.active {
+  background-color: grey;
+  color: white;
+}
+header {
+  font-family: Clarendon Blk BT black;
+  font-size: 90px;
+  background-size: cover;
+  background-size: 100% 100%;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 55px;
+  text-shadow: 6px 5px 4px black;
+
+}
+nav {
+  color: white;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  background-color: rgb(8, 123, 216);
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+section {
+  display: flex;
+  }
+section {
+  display: flex;
+  }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ &lt;br&gt;
+ &lt;nav&gt;
+ 
+&lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+&lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+&lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+&lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+&lt;header&gt;
+BRAKE AND CLUTCH RELINING SERVICES
+&lt;/header&gt;
+
+&lt;br /&gt;
+&lt;body&gt;
+&lt;h1&gt;
+  &lt;p style=&quot;font-size:160%;&quot; &gt;About Us&lt;/p&gt;
+&lt;/h1&gt;
+&lt;h2&gt;
+&lt;p style=&quot;font-size:160%;&quot; style=&quot;color:rgb(21, 5, 238);&quot;&gt; We are a group of
+highly skilled individuals
+  dedicated to deliver the best clutch relining and brake rebonding services&lt;/p&gt;
+&lt;br /&gt;
+&lt;/h2&gt;
+&lt;center&gt;
+&lt;img src=&quot;35.JPG&quot; width=&quot;300&quot;&gt;
+&lt;p&gt;Chief Mechanic&lt;/p&gt;
+&lt;img src=&quot;36.JPG&quot; width=&quot;300&quot;&gt;
+&lt;p&gt;Chief of Staff&lt;/p&gt;
+&lt;img src=&quot;37.JPG&quot; width=&quot;300&quot;&gt;
+&lt;p&gt;Chief Executive Officer&lt;/p&gt;
+&lt;/center&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br&gt;
+&lt;img src=&quot;space1.jpg&quot;
+&lt;footer&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+    &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+  &lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+  &lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+  &lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;p&gt;© &lt;/p&gt;
+  &lt;img src=&quot;space1.jpg&quot; alt=&quot;Lapasan, Cagayan de Oro City&quot; width=&quot;30&quot;
+height=&quot;30&quot;&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+// Contact Us //
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;style&gt;
+body{
+margin:0;
+background-image: url(&#39;bg.jpg&#39;);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+color: white
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: grey;
+  color: black;
+}
+.topnav a.active {
+  background-color: grey;
+  color: white;
+}
+header {
+  font-family: Clarendon Blk BT black;
+  font-size: 90px;
+  background-size: cover;
+  background-size: 100% 100%;
+  color: white;
+
+  text-align: center;
+  padding: 55px;
+  text-shadow: 6px 5px 4px black;
+}
+nav {
+  color: white;
+  font-size: 20px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  background-color: rgb(8, 123, 216);
+  text-decoration: none;
+  color: Black;
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+section {
+  display: flex;
+  }
+section {
+  display: flex;
+  }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;br&gt;
+  &lt;nav&gt;
+&lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+&lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+&lt;a href =&quot;services.html&quot;&gt; Services&lt;/a&gt;
+&lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+&lt;header&gt;
+  BRAKE AND CLUTCH RELINING SERVICES
+
+  &lt;/header&gt;
+  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br&gt;
+  &lt;a href= &quot;file:///C:/Users/user/Desktop/WEBSITE%20-%20Copy/CallUs.html&quot;&gt;Call
+Us&lt;/a&gt;
+  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br&gt;
+  &lt;a href=&quot;https://web.facebook.com/?_rdc=1&amp;_rdr&quot;&gt;Visit us on facebook&lt;/a&gt;
+&lt;footer&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;a href =&quot;index.html&quot;&gt; Home&lt;/a&gt;
+  &lt;a href =&quot;about.html&quot;&gt; About us&lt;/a&gt;
+  &lt;a href =&quot;services.html&quot;&gt; services&lt;/a&gt;
+  &lt;a href =&quot;contact.html&quot;&gt; Contact us&lt;/a&gt;
+  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+  &lt;p&gt;© Lapasan, Cagayan de Oro City&lt;/p&gt;
+  &lt;img src=&quot;space1.jpg&quot; alt=&quot;Lapasan, Cagayan de Oro City &quot; width=&quot;100&quot;
+height=&quot;100&quot;&gt;
+&lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;
